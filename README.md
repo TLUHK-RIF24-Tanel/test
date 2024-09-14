@@ -1,2 +1,2 @@
 # test
-kooliasjade katsetamiseks
+See repositoorium on kooliasjade katsetamiseks

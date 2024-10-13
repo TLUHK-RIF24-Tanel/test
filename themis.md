@@ -6,7 +6,7 @@ Tundmine: erinevate anduritega (nt kaamerad ja mikrofonid) varustatud robotid ta
 Käivitamine: Mootoreid ja ajamid kasutades saavad robotid objekte liigutada ja nendega manipuleerida, täites ülesandeid lihtsatest liigutustest keerukate toiminguteni.
 
 
-## mMilrem THeMIS
+## Milrem THeMIS
 
 THeMIS on mitmeotstarbeline mehitamata maasõiduk (UGV).Eesmärk vähendada vägede arvu lahinguväljal. 
 
@@ -14,9 +14,9 @@ THeMISe avatud arhitektuur võimaldab vastavalt missiooni olemusele kiiresti kon
 THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, Norra, Hispaania, Suurbritannia ja USA. Juunis 2024 asus THeMISt testima viimantine NATOga liituja Rootsi. 
 
 ### Kolm tehasekonfiguratsiooni:
-1. THeMIS Cargo suurendab üksuste mobiilsust ja muudab need vastase vastu tõhusamaks. Eesmärk on vähendada sõduritel varude ja varustuse kaasaskandmise koormust ning võimaldab lahingus kasutada laialdasemat lisavarustust ja tulejõudu. THeMIS Cargot saab kasutada ka logistikatoena ja viimase miili varustamiseks. 
-2. THeMIS Mortar eesmärk on võimaldada manööverjõududele logistilist tuge ja kaudtuld. Varustuses on on 81 mm padruneid kasutav suurtükk. Lisavarutusena võimalik 40mmm granaadipildur, anti-tank süsteemid, s.h. Javelin. 
-3. THeMIS Cargo CASEVAC pakub kiireloomuliste vigastutega kannatanute jaoks kiiret evakueerimist vigastuspunktist kõrgema taseme meditsiiniasutustesse. 
+1. **THeMIS Cargo** suurendab üksuste mobiilsust ja muudab need vastase vastu tõhusamaks. Eesmärk on vähendada sõduritel varude ja varustuse kaasaskandmise koormust ning võimaldab lahingus kasutada laialdasemat lisavarustust ja tulejõudu. THeMIS Cargot saab kasutada ka logistikatoena ja viimase miili varustamiseks. 
+2. **THeMIS Mortar** eesmärk on võimaldada manööverjõududele logistilist tuge ja kaudtuld. Varustuses on on 81 mm padruneid kasutav suurtükk. Lisavarutusena võimalik 40mmm granaadipildur, anti-tank süsteemid, s.h. Javelin. 
+3. **THeMIS Cargo CASEVAC** pakub kiireloomuliste vigastutega kannatanute jaoks kiiret evakueerimist vigastuspunktist kõrgema taseme meditsiiniasutustesse. 
 
 Themis kasutab tarkvaralahendust Milrem Intelligent Function Integration Kit, mis võimaldab... 
 operaatoril:
@@ -64,11 +64,7 @@ Video: https://www.youtube.com/watch?v=RLU0w8DNo7M
 
 
 
-
-
-Allikad:
-https://milremrobotics.com/
-
-https://odin.tradoc.army.mil/WEG/Asset/6b86d7f9c01fddd5d866d7a1e6d60c6e
-
+Allikad: 
+https://milremrobotics.com/ 
+https://odin.tradoc.army.mil/WEG/Asset/6b86d7f9c01fddd5d866d7a1e6d60c6e 
 https://defenceredefined.com.cy/themis-the-definition-of-modularity-by-milrem-robotics-in-dimdex-2022-photos-and-video/

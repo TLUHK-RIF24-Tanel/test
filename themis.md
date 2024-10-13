@@ -6,43 +6,40 @@ Tundmine: erinevate anduritega (nt kaamerad ja mikrofonid) varustatud robotid ta
 Käivitamine: Mootoreid ja ajamid kasutades saavad robotid objekte liigutada ja nendega manipuleerida, täites ülesandeid lihtsatest liigutustest keerukate toiminguteni.
 
 
-
+## mMilrem THeMIS
 
 THeMIS on mitmeotstarbeline mehitamata maasõiduk (UGV).Eesmärk vähendada vägede arvu lahinguväljal. 
 
 THeMISe avatud arhitektuur võimaldab vastavalt missiooni olemusele kiiresti konfigureerida transpordifunktsioonist relvastatuks, lahingumoona hävitamiseks või luureoperatsioonide toetamiseks. 
-THeMIS UGV-d on omandanud 16 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, Norra, Hispaania, Suurbritannia ja USA. Juunis 2024 asus THeMISt testima viimantine NATOga liituja Rootsi. 
+THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, Norra, Hispaania, Suurbritannia ja USA. Juunis 2024 asus THeMISt testima viimantine NATOga liituja Rootsi. 
 
-Kolm tehasekonfiguratsiooni:
-1. THeMIS Cargo suurendab üksuste mobiilsust ja muudab need vastase vastu tõhusamaks. Eesmärk on vähendada sõduritel varude ja varustuse kaasaskandmise koormust ning võimaldab lahingus kasutada laialdasemat lisavarustust ja tulejõudu. THeMIS Cargot saab kasutada ka logistikatoena ja viimase miili varustamiseks.
-
-2. THeMIS Mortar eesmärk on võimaldada manööverjõududele logistilist tuge ja kaudtuld. Varustuses on on 81 mm padruneid kasutav suurtükk. Lisavarutusena võimalik 40mmm granaadipildur, anti-tank süsteemid, s.h. Javelin.
-
-3. THeMIS Cargo CASEVAC pakub kiireloomuliste vigastutega kannatanute jaoks kiiret evakueerimist vigastuspunktist kõrgema taseme meditsiiniasutustesse.
+### Kolm tehasekonfiguratsiooni:
+1. THeMIS Cargo suurendab üksuste mobiilsust ja muudab need vastase vastu tõhusamaks. Eesmärk on vähendada sõduritel varude ja varustuse kaasaskandmise koormust ning võimaldab lahingus kasutada laialdasemat lisavarustust ja tulejõudu. THeMIS Cargot saab kasutada ka logistikatoena ja viimase miili varustamiseks. 
+2. THeMIS Mortar eesmärk on võimaldada manööverjõududele logistilist tuge ja kaudtuld. Varustuses on on 81 mm padruneid kasutav suurtükk. Lisavarutusena võimalik 40mmm granaadipildur, anti-tank süsteemid, s.h. Javelin. 
+3. THeMIS Cargo CASEVAC pakub kiireloomuliste vigastutega kannatanute jaoks kiiret evakueerimist vigastuspunktist kõrgema taseme meditsiiniasutustesse. 
 
 Themis kasutab tarkvaralahendust Milrem Intelligent Function Integration Kit, mis võimaldab... 
-
 operaatoril:
-Plaanida missioone, kasutades sihtpunktidepõhist navigeerimist
-Seadistada sõiduki käitumist asukoha või sündmuse põhjal.
-Redigeerida planeeritud marsruute missiooni täitmise ajal.
-Luua mitmeid marsruute ja plaanida mitmeid missioone.
-Kontrollida raadiosignaali edastamist.
-Laadida üles avatud allikaga (open soruce) või muid eelistatud kaarte.
+* Plaanida missioone, kasutades sihtpunktidepõhist navigeerimist
+* Seadistada sõiduki käitumist asukoha või sündmuse põhjal.
+* Redigeerida planeeritud marsruute missiooni täitmise ajal.
+* Luua mitmeid marsruute ja plaanida mitmeid missioone.
+* Kontrollida raadiosignaali edastamist.
+* Laadida üles avatud allikaga (open soruce) või muid eelistatud kaarte.
 
 sõidukil:
-Teha patrullringe, tagasi pöörduda ja "koju" naasta.
-Järgida operaatorit või konvoid.
-Toimida ka olukorras, kus sateliitside puudub.
-Võimaldab robotitel töötada sülemina.
+* Teha patrullringe, tagasi pöörduda ja "koju" naasta.
+* Järgida operaatorit või konvoid.
+* Toimida ka olukorras, kus sateliitside puudub.
+* Võimaldab robotitel töötada sülemina.
 
 Tarkvarale on omane:
-Intuitiivne kasutajaliides
-2D/3D kaardistamine
-Sensorite edasiarendatud ühendamine
-Süvaõppimise algoritmid
+* Intuitiivne kasutajaliides
+* 2D/3D kaardistamine
+* Edasiarendatud sensorühendused
+* Süvaõppimise algoritmid
 
-# h2 Tehnilised näitajad 
+### Tehnilised näitajad 
 * Esmaesitlus: 2015 
 * Mõõdud: 240 x 200 x 115 cm 
 * Mootor: Hybrid Diesel (Tööaeg 15h, akutoitel tööaeg 1.5h)
@@ -59,13 +56,12 @@ Süvaõppimise algoritmid
 
 Video: https://www.youtube.com/watch?v=RLU0w8DNo7M
 
+### isiklikud kommentaarid ja taustainfo:
+1. robustne, aga teeb mis lubatud, aga oma peaga väga ei mõtle. põhiline on multifunktsionaalsus, moodulsüsteem, maastikuläbivus & liikumisandurite hea koostöö. Kriitika: heidetakse ette, et pole piisavalt autonoomne/isemõtlev. 
+2. kasutatakse reaalselt (2019 kasutati Mali´s Prantusmaa vägede poolt anti-terrorist missioonil, ja muidugi Ukr-vene sõjas)
+3. tulevikuperspektiiv - riigid suurendavad kaitsekulutusi ja moderniseerivad relvastust - prioriteetne ja hästirahastatud valdkond. 2024 Milremil uued tootmisruumid, +100 töötajat ja tootmisvõimsus kasvas 5x, nii, et nüüd suudavad toota 500 robotit aastas. 
+4. Midagi on natuke "open source" - norrakate punt Norwegian Defence Research Establishment tuunis THeMISt 2021: Making the Milrem Themis UGV ready for autonomous operations. Proceedings of SPIE, the International Society for Optical Engineering [Allikas](https://www.ffi.no/en/publications-archive/making-the-milrem-themis-ugv-ready-for-autonomous-operations)
 
-
- isiklikud kommentaarid:
-1. robustne, aga teeb mis lubatud, aga oma peaga väga ei mõtle. põhiline ikka liikumisandurite hea koostöö 
-2. kasutatakse reaalselt (2019 kasutati Mali´s Prantusmaa vägede poolt anti-terrorist missioonil,
-ja muidugi Ukr-vene sõjas)
-3. tulevikuperspektiiv - riigid suurendavad kaitsekulutusi ja moderniseerivad relvastust - prioriteetne ja hästirahastatud valdkond. 
 
 
 

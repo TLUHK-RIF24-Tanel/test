@@ -73,5 +73,7 @@ Video: https://www.youtube.com/watch?v=RLU0w8DNo7M
 
 Allikad: 
 https://milremrobotics.com/ 
+
 https://odin.tradoc.army.mil/WEG/Asset/6b86d7f9c01fddd5d866d7a1e6d60c6e 
+
 https://defenceredefined.com.cy/themis-the-definition-of-modularity-by-milrem-robotics-in-dimdex-2022-photos-and-video/

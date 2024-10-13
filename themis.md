@@ -24,7 +24,7 @@ THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, No
 2. **THeMIS Mortar** eesmärk on võimaldada manööverjõududele logistilist tuge ja kaudtuld. Varustuses on on 81 mm padruneid kasutav suurtükk. Lisavarutusena võimalik 40mmm granaadipildur, anti-tank süsteemid, s.h. Javelin. 
 3. **THeMIS Cargo CASEVAC** pakub kiireloomuliste vigastutega kannatanute jaoks kiiret evakueerimist vigastuspunktist kõrgema taseme meditsiiniasutustesse. 
 
-**Themis kasutab tarkvaralahendust Milrem Intelligent Function Integration Kit, mis võimaldab... **
+Themis kasutab tarkvaralahendust Milrem Intelligent Function Integration Kit, mis võimaldab... 
 **operaatoril:**
 * Plaanida missioone, kasutades sihtpunktidepõhist navigeerimist
 * Seadistada sõiduki käitumist asukoha või sündmuse põhjal.

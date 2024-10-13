@@ -25,6 +25,7 @@ THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, No
 3. **THeMIS Cargo CASEVAC** pakub kiireloomuliste vigastutega kannatanute jaoks kiiret evakueerimist vigastuspunktist kõrgema taseme meditsiiniasutustesse. 
 
 Themis kasutab tarkvaralahendust Milrem Intelligent Function Integration Kit, mis võimaldab... 
+
 **operaatoril:**
 * Plaanida missioone, kasutades sihtpunktidepõhist navigeerimist
 * Seadistada sõiduki käitumist asukoha või sündmuse põhjal.

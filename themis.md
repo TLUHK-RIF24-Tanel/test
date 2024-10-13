@@ -14,7 +14,7 @@
 
 ## Milrem THeMIS
 
-THeMIS on mitmeotstarbeline mehitamata maasõiduk (UGV).Eesmärk vähendada vägede arvu lahinguväljal. 
+THeMIS on mitmeotstarbeline mehitamata maasõiduk (UGV). Eesmärk vähendada vägede arvu lahinguväljal. 
 
 THeMISe avatud arhitektuur võimaldab vastavalt missiooni olemusele kiiresti konfigureerida transpordifunktsioonist relvastatuks, lahingumoona hävitamiseks või luureoperatsioonide toetamiseks. 
 THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, Norra, Hispaania, Suurbritannia ja USA. Juunis 2024 asus THeMISt testima viimantine NATOga liituja Rootsi. 

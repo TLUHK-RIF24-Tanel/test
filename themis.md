@@ -3,13 +3,6 @@
 **Robot** - ümberprogrammeeritav isetoimiv masin, mida kasutatakse inimese liikumist, tajumist ja mõtlemist asendavates töödes, masininimene (EKI)
 
 
-## What are the main components of a robot?
-* Control System: the Central Processing Unit (CPU) directs the tasks the robot has to do
-* Sensors: a component that provides electrical signals to allow a robot to interact with the world.
-* Actuators: the robots parts that make it able to move
-* Power Supply: battery or cable to provide power
-* End Effectors: the exterior features of a robot that allow it to complete a task.
-
 ---------------------------
 
 ## Milrem THeMIS

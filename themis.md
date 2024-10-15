@@ -56,6 +56,8 @@ Themis kasutab tarkvaralahendust Milrem Intelligent Function Integration Kit, mi
 
 Video: https://www.youtube.com/watch?v=RLU0w8DNo7M
 
+---------------------------
+
 ### isiklikud kommentaarid ja taustainfo:
 1. robustne, aga teeb mis lubatud, aga oma peaga väga ei mõtle. põhiline on multifunktsionaalsus, moodulsüsteem, maastikuläbivus & liikumisandurite hea koostöö. Kriitika: heidetakse ette, et pole piisavalt autonoomne/isemõtlev. 
 2. kasutatakse reaalselt (2019 kasutati Mali´s Prantusmaa vägede poolt anti-terrorist missioonil, ja muidugi Ukr-vene sõjas)

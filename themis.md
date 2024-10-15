@@ -10,7 +10,7 @@
 THeMIS on mitmeotstarbeline mehitamata maasõiduk (UGV). Eesmärk vähendada vägede arvu lahinguväljal. 
 
 THeMISe avatud arhitektuur võimaldab vastavalt missiooni olemusele kiiresti konfigureerida transpordifunktsioonist relvastatuks, lahingumoona hävitamiseks või luureoperatsioonide toetamiseks. 
-THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, Norra, Hispaania, Suurbritannia ja USA. Juunis 2024 asus THeMISt testima viimantine NATOga liituja Rootsi. 
+THeMIS UGV-d on omandanud 18 riiki sealhulgas Prantsusmaa, Saksamaa, Holland, Norra, Hispaania, Suurbritannia ja USA. Juunis 2024 asus THeMISt testima viimatine NATOga liituja Rootsi. 
 
 ### Kolm tehasekonfiguratsiooni:
 1. **THeMIS Cargo** suurendab üksuste mobiilsust ja muudab need vastase vastu tõhusamaks. Eesmärk on vähendada sõduritel varude ja varustuse kaasaskandmise koormust ning võimaldab lahingus kasutada laialdasemat lisavarustust ja tulejõudu. THeMIS Cargot saab kasutada ka logistikatoena ja viimase miili varustamiseks. 

@@ -38,7 +38,8 @@ Krüptograafia
 
  
 Praktikumis kasutatud veebirakendused 
-[Loogika tehted](https://www.erpelstolz.at/gateway/formular-uk-zentral.html]
+
+[Loogika tehted](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
 
 [Arvude teisendamine arvusüsteemide vahe(xDataReps)](https://math.hws.edu/eck/js/datareps/xDataReps.html)
 

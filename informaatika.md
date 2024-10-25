@@ -6,15 +6,19 @@ Ajalugu
 
 [Computing Before Computers](http://ed-thelen.org/comp-hist/CBC.html)
 
-[The New Hacker´s Dictionary](http://www.outpost9.com/reference/jargon/jargon_toc.html)
+[Telekomi ajaloost Ericssoni pilgu läbi](http://www.ericsson.com/thecompany/company_facts/history)
+
+Seletusi
+
+[The New Hackers Dictionary](http://www.outpost9.com/reference/jargon/jargon_toc.html)
 
 [How Stuff Works](http://computer.howstuffworks.com/)
 
 [What Is?](http://whatis.techtarget.com/)  
 
-Sissejuhatus Informaatikasse, Tanel Tammet
+Sissejuhatus Informaatikasse
 
-[Tammeti loengud](http://www.lambda.ee/wiki/Itv0010)
+[ Tammeti loengud](http://www.lambda.ee/wiki/Itv0010)
 
 Programmeerimine
 
@@ -30,30 +34,31 @@ Tehisintellekt
 
 [Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
+Jeff Hawkins intellektist ja aju funktsioonist enne HTM'i 
+
 [Kiirkursus AI olemusest ja alustest:](https://www.elementsofai.com/)
 
 Krüptograafia
 
 [Eestis läbi viidud valdkonna uuringud:](https://ria.ee/amet-uudised-ja-kontakt/uudised-pressikontakt/uuringud-ja-analuusid#kruptouuringud)
 
- 
-Praktikumis kasutatud veebirakendused 
+ Praktikumis kasutatud veebirakendused
 
-[TÕEVÄÄRTUS Loogika tehted](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
+[Loogika tehted:](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
 
-[Arvude teisendamine arvusüsteemide vahe(xDataReps)](https://math.hws.edu/eck/js/datareps/xDataReps.html)
+Arvude teisendamine arvusüsteemide vahe(xDataReps)
 
-[Turingi masin](https://math.hws.edu/eck/js/turing-machine/TM.html)
+[Turingi masin](xTuringMachine)
 
-[Esimene arvuti mudeli labor](https://math.hws.edu/eck/js/xComputer/xComputer.html)
+[Esimene arvuti mudeli labor](xComputer)
 
-[Elektriskeemid](https://math.hws.edu/eck/js/xLogicCircuits/xLogicCircuits.html)
+[Elektriskeemid](xLogicCircuits)
 
-[Elektriskeemide ehitamiseks saab kasutada alternatiivselt keskkonda:](https://circuitverse.org/simulator)
+[Elektriskeemide ehitamiseks saab kasutada alternatiivseltkeskkonda:]( https://circuitverse.org/simulator)
 
-[Lihtsamate xTurtle näidetega leht](https://math.hws.edu/eck/js/xTurtle/xTurtle.html)
+[Lihtsamate xTurtle näidetega leht](xTurtle)
 
-[Teadusuudised
+Teadusuudised
 
 [Science Daily](http://www.sciencedaily.com/news/computers_math/)
 

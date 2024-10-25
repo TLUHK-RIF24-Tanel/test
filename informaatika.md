@@ -46,17 +46,17 @@ Krüptograafia
 
 [Loogika tehted:](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
 
-Arvude teisendamine arvusüsteemide vahe(xDataReps)
+[Arvude teisendamine arvusüsteemide vahel xDataReps](https://math.hws.edu/eck/js/datareps/xDataReps.html)
 
-[Turingi masin](xTuringMachine)
+[Turingi masin](https://math.hws.edu/eck/js/turing-machine/TM.html)
 
-[Esimene arvuti mudeli labor](xComputer)
+[Esimene arvuti mudeli labor](https://math.hws.edu/eck/js/xComputer/xComputer.html)
 
-[Elektriskeemid](xLogicCircuits)
+[Elektriskeemid](https://math.hws.edu/eck/js/xLogicCircuits/xLogicCircuits.html)
 
-[Elektriskeemide ehitamiseks saab kasutada alternatiivseltkeskkonda:]( https://circuitverse.org/simulator)
+[Elektriskeemide ehitamiseks saab kasutada alternatiivseltkeskkonda:](https://circuitverse.org/simulator)
 
-[Lihtsamate xTurtle näidetega leht](xTurtle)
+[Lihtsamate xTurtle näidetega leht](https://math.hws.edu/eck/js/xTurtle/xTurtle.html)
 
 Teadusuudised
 

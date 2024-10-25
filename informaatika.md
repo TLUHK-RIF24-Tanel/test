@@ -48,7 +48,7 @@ Praktikumis kasutatud veebirakendused
 
 [Arvude teisendamine arvusüsteemide vahe(xDataReps)](https://math.hws.edu/eck/js/datareps/xDataReps.html)
 
-[Turingi masin](xTuringMachine)
+[Turingi masin](https://math.hws.edu/eck/js/turing-machine/TM.html))
 
 [Esimene arvuti mudeli labor](xComputer)
 

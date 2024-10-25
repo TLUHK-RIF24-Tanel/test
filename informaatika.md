@@ -52,10 +52,9 @@ Praktikumis kasutatud veebirakendused
 
 [Esimene arvuti mudeli labor](https://math.hws.edu/eck/js/xComputer/xComputer.html))
 
-[Elektriskeemid](xLogicCircuits)
+[Elektriskeemid](https://math.hws.edu/eck/js/xLogicCircuits/xLogicCircuits.html)
 
-[Elektriskeemide ehitamiseks saab kasutada alternatiivselt(keskkonda: https://circuitverse.org/simulator
-
+[Elektriskeemide ehitamiseks saab kasutada alternatiivselt keskkonda:](https://circuitverse.org/simulator)
 [Lihtsamate xTurtle näidetega leht](xTurtle)
 
 [Teadusuudised

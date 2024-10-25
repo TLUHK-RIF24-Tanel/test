@@ -50,7 +50,7 @@ Praktikumis kasutatud veebirakendused
 
 [Turingi masin](https://math.hws.edu/eck/js/turing-machine/TM.html))
 
-[Esimene arvuti mudeli labor](xComputer)
+[Esimene arvuti mudeli labor](https://math.hws.edu/eck/js/xComputer/xComputer.html))
 
 [Elektriskeemid](xLogicCircuits)
 

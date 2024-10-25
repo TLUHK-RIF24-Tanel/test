@@ -58,7 +58,7 @@ Krüptograafia
 
 [Lihtsamate xTurtle näidetega leht](https://math.hws.edu/eck/js/xTurtle/xTurtle.html)
 
-Teadusuudised
+Teadusuudised 123
 
 [Science Daily](http://www.sciencedaily.com/news/computers_math/)
 

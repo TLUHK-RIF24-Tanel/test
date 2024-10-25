@@ -43,10 +43,10 @@ Krüptograafia
 [Eestis läbi viidud valdkonna uuringud:](https://ria.ee/amet-uudised-ja-kontakt/uudised-pressikontakt/uuringud-ja-analuusid#kruptouuringud)
 
  
-Praktikumis kasutatud veebirakendused
-[Loogika tehted:](https://www.erpelstolz.at/gateway/formular-uk-zentral.html 
+Praktikumis kasutatud veebirakendused 
+[Loogika tehted](https://www.erpelstolz.at/gateway/formular-uk-zentral.html]
 
-Arvude teisendamine arvusüsteemide vahe(xDataReps)
+[Arvude teisendamine arvusüsteemide vahe(xDataReps)](https://math.hws.edu/eck/js/datareps/xDataReps.html)
 
 [Turingi masin](xTuringMachine)
 

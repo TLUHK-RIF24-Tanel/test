@@ -6,8 +6,6 @@ Ajalugu
 
 [Computing Before Computers](http://ed-thelen.org/comp-hist/CBC.html)
 
-[The History of Computing Project](http://www.thocp.net/)
-
 [Telekomi ajaloost Ericssoni pilgu läbi](http://www.ericsson.com/thecompany/company_facts/history)
 
 Seletusi

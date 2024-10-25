@@ -62,6 +62,4 @@ Teadusuudised
 
 [Science Daily](http://www.sciencedaily.com/news/computers_math/)
 
-[ERR teadusuudised:](http://novaator.err.ee/)
-
 [Blue Brain project](http://bluebrain.epfl.ch/)

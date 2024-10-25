@@ -31,7 +31,6 @@ Tarkvara arhitektuur
 
 Arne Ansper Eesti e-riigist ja selle arhitektuurist 
 
-
 Esita video
 IT ärimudelid
 
@@ -39,15 +38,8 @@ IT ärimudelid
 
 Tehisintellekt
 
-[Game of Life(http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-[Jeff Hawkins intellektist ja aju funktsioonist enne HTM'i 
-
-
-Esita video
- ja juba pärast HTM'i 
-
-Esita video
 [Kiirkursus AI olemusest ja alustest:](https://www.elementsofai.com/)
 
 Krüptograafia

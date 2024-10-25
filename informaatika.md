@@ -6,10 +6,6 @@ Ajalugu
 
 [Computing Before Computers](http://ed-thelen.org/comp-hist/CBC.html)
 
-[Telekomi ajaloost Ericssoni pilgu läbi](http://www.ericsson.com/thecompany/company_facts/history)
-
-Seletusi
-
 [The New Hacker´s Dictionary](http://www.outpost9.com/reference/jargon/jargon_toc.html)
 
 [How Stuff Works](http://computer.howstuffworks.com/)

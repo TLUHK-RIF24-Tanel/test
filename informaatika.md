@@ -20,19 +20,15 @@ Seletusi
 
 Sissejuhatus Informaatikasse, Tanel Tammet
 
-[ Tammeti loengud](http://www.lambda.ee/wiki/Itv0010)
+[Tammeti loengud](http://www.lambda.ee/wiki/Itv0010)
 
 Programmeerimine
 
-TalTech Pythoni algõpe suurepäraste videoklippidega
-Pythoni õppematerjalid — Pythoni materjalid 2024 dokumentatsioon (taltech.ee)
+[Pythoni õppematerjalid — Pythoni materjalid 2024 dokumentatsioon](https://pydoc.pages.taltech.ee/index.html)
 
 Tarkvara arhitektuur
 
-Arne Ansper Eesti e-riigist ja selle arhitektuurist 
-
-Esita video
-IT ärimudelid
+[IT ärimudelid](http://ftacademy.org/files/materials/fta-m5-economic_models.pdf)
 
 [Vaba tarkvara ärimudelitest](http://ftacademy.org/files/materials/fta-m5-economic_models.pdf)
 

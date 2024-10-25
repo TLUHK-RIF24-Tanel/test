@@ -55,7 +55,7 @@ Praktikumis kasutatud veebirakendused
 [Elektriskeemid](https://math.hws.edu/eck/js/xLogicCircuits/xLogicCircuits.html)
 
 [Elektriskeemide ehitamiseks saab kasutada alternatiivselt keskkonda:](https://circuitverse.org/simulator)
-[Lihtsamate xTurtle näidetega leht](xTurtle)
+[Lihtsamate xTurtle näidetega leht](https://math.hws.edu/eck/js/xTurtle/xTurtle.html)
 
 [Teadusuudised
 

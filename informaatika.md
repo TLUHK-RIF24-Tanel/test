@@ -26,7 +26,7 @@ Programmeerimine
 
 Tarkvara arhitektuur
 
-[IT ärimudelid](http://ftacademy.org/files/materials/fta-m5-economic_models.pdf)
+IT ärimudelid
 
 [Vaba tarkvara ärimudelitest](http://ftacademy.org/files/materials/fta-m5-economic_models.pdf)
 
